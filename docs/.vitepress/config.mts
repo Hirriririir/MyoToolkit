@@ -13,12 +13,12 @@ const teekConfig = defineTeekConfig({
 export default defineConfig({
   extends: teekConfig,
   title: "MyoToolkit",
-  base: "/MyoToolkit/",
+  base: "/",
   cleanUrls: false,
   lastUpdated: true,
 
   head: [
-    ["link", { rel: "icon", type: "image/svg+xml", href: "/MyoToolkit/favicon.svg" }],
+    ["link", { rel: "icon", type: "image/svg+xml", href: "/favicon.svg" }],
     ["meta", { property: "og:type", content: "website" }],
     [
       "meta",
@@ -205,7 +205,7 @@ export default defineConfig({
 
     footer: {
       message:
-        'Released under the MIT License.<br/><a href="https://beian.miit.gov.cn/" target="_blank">赣ICP备2024041543号</a> | <a href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=36110002000148" target="_blank"><img src="/MyoToolkit/beian.png" style="display:inline-block;vertical-align:middle;width:14px;height:14px;margin-right:4px;" />赣公网安备36110002000148号</a>',
+        'Released under the MIT License.<br/><a href="https://beian.miit.gov.cn/" target="_blank">赣ICP备2024041543号</a> | <a href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=36110002000148" target="_blank"><img src="/beian.png" style="display:inline-block;vertical-align:middle;width:14px;height:14px;margin-right:4px;" />赣公网安备36110002000148号</a>',
       copyright:
         '<a href="https://huashanmuscle.com/" target="_blank">HuashanMuscle</a> © 2026-present',
     },
