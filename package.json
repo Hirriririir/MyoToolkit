@@ -1,0 +1,16 @@
+{
+  "name": "myotoolkit",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "sass": "^1.98.0",
+    "vitepress": "^1.6.4",
+    "vitepress-theme-teek": "^1.5.5"
+  }
+}
