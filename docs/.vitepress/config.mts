@@ -28,6 +28,15 @@ export default defineConfig({
       },
     ],
     ["meta", { property: "og:site_name", content: "MyoToolkit" }],
+    [
+      "script",
+      { async: "", src: "https://www.googletagmanager.com/gtag/js?id=G-TMKV3Y3GND" },
+    ],
+    [
+      "script",
+      {},
+      "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-TMKV3Y3GND');",
+    ],
   ],
 
   markdown: {

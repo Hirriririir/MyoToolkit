@@ -1,5 +1,11 @@
 # MyoPath
 
+::: danger Under Development
+
+MyoPath is currently under active development and not yet publicly available.
+
+:::
+
 **MyoPath** is an automated skeletal muscle pathology analysis tool for HE-stained whole slide images (WSI).
 
 ## Overview

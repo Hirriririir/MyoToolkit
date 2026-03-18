@@ -34,6 +34,27 @@ monailabel start_server \
 4. Review and refine the 11-muscle segmentation result
 5. Export segmentation masks for downstream analysis
 
+## Data Download
+
+### Release Data
+
+The following files are available on the [GitHub Release v1.0](https://github.com/Hirriririir/Multimodal-Multiethnic-Thigh-Muscle-MRI-analysis/releases/tag/1.0):
+
+| File | Size | Description |
+|------|------|-------------|
+| `pretrained_segmentation_muscle.pt` | ~329 MB | Pretrained SegResNet model weights |
+| `HuashanMyo.zip` | ~746 MB | Huashan Hospital multimodal thigh MRI dataset |
+| `Folkhalsan.zip` | ~150 MB | Folkhälsan Research Center thigh MRI dataset |
+| `Dataset.json` | ~42 KB | MONAI Label dataset configuration |
+
+### ITK-SNAP Label File
+
+Download the ITK-SNAP label file for 11-muscle annotation:
+
+<a href="/thighmriseg/ThighMuscle.label" download>ThighMuscle.label</a>
+
+Load in ITK-SNAP via **Segmentation → Import Label Descriptions**.
+
 ## Analysis
 
 The repository includes Jupyter notebooks for:

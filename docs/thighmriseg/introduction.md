@@ -1,5 +1,11 @@
 # ThighMRIseg
 
+::: warning
+
+This project V1.0 has been archived and is no longer updated.
+
+:::
+
 **ThighMRIseg** is a deep learning-based thigh muscle MRI segmentation tool trained on a multimodal, multiethnic dataset.
 
 ## Overview

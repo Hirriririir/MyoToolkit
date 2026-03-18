@@ -34,6 +34,27 @@ monailabel start_server \
 4. 查看并修正 11 块肌肉的分割结果
 5. 导出分割掩膜用于下游分析
 
+## 数据下载
+
+### Release 数据
+
+以下文件可从 [GitHub Release v1.0](https://github.com/Hirriririir/Multimodal-Multiethnic-Thigh-Muscle-MRI-analysis/releases/tag/1.0) 下载：
+
+| 文件 | 大小 | 说明 |
+|------|------|------|
+| `pretrained_segmentation_muscle.pt` | ~329 MB | 预训练 SegResNet 模型权重 |
+| `HuashanMyo.zip` | ~746 MB | 华山医院多模态大腿 MRI 数据集 |
+| `Folkhalsan.zip` | ~150 MB | Folkhälsan 研究中心大腿 MRI 数据集 |
+| `Dataset.json` | ~42 KB | MONAI Label 数据集配置文件 |
+
+### ITK-SNAP 标签文件
+
+下载 11 块肌肉标注的 ITK-SNAP 标签文件：
+
+<a href="/thighmriseg/ThighMuscle.label" download>ThighMuscle.label</a>
+
+在 ITK-SNAP 中通过 **Segmentation → Import Label Descriptions** 加载。
+
 ## 分析功能
 
 仓库包含 Jupyter Notebook 用于：

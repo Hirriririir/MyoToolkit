@@ -8,6 +8,7 @@ import "vitepress-theme-teek/vp-plus/aside.scss";
 import "vitepress-theme-teek/vp-plus/table.scss";
 import "vitepress-theme-teek/vp-plus/blockquote.scss";
 import "vitepress-theme-teek/tk-plus/fade-up-animation.scss";
+import "./custom.css";
 
 export default {
   extends: Teek,

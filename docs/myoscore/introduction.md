@@ -1,5 +1,11 @@
 # Introduction
 
+::: danger Under Development
+
+MyoScore is currently under active development and not yet publicly available.
+
+:::
+
 **MyoScore (Genetic Muscle Health Score, GMHS)** is a transcriptome-based quantitative assessment system for muscle health.
 
 ## Overview
