@@ -2,6 +2,18 @@
 
 MyoToolkit 的所有重要更新将记录在此页面。
 
+## 2026.03 — MyoPath
+
+- 开源发布 MyoPath 流水线（[GitHub](https://github.com/Hirriririir/MyoPath)）
+- H&E 全切片图像四层组织分割：肌纤维（Cellpose-SAM）、脂肪（像素分类器）、细胞核（watershed）、结缔组织（布尔减法）
+- 37 个形态学特征，涵盖五个生物学类别
+- 七项病理指标，以 NCI 和 Fiber CV 作为主要生物标志物
+- MyoPath Score 复合严重程度评分（外部验证 AUC = 0.873）
+- 在两个独立队列的 478 张 WSI 上验证（GTEx n=399，华山队列 n=79）
+- QuPath + Python 流水线，支持批处理和命令行操作
+
+---
+
 ## 2026.03 — MyoToolkit 网站
 
 - 首次发布统一的 MyoToolkit 文档网站

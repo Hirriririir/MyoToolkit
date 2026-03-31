@@ -2,6 +2,18 @@
 
 All notable changes to MyoToolkit will be documented on this page.
 
+## 2026.03 — MyoPath
+
+- Open-source release of MyoPath pipeline ([GitHub](https://github.com/Hirriririir/MyoPath))
+- Four-tissue segmentation from H&E whole slide images: myofiber (Cellpose-SAM), fat (pixel classifier), nuclei (watershed), connective tissue (Boolean subtraction)
+- 37 morphometric features across five biological categories
+- Seven pathology indicators with NCI and Fiber CV as primary biomarkers
+- MyoPath Score composite severity measure (AUC = 0.873 on external validation)
+- Validated on 478 WSIs from two independent cohorts (GTEx n=399, HuashanMuscle n=79)
+- QuPath + Python pipeline with batch processing and CLI support
+
+---
+
 ## 2026.03 — MyoToolkit Website
 
 - Initial release of the unified MyoToolkit documentation site

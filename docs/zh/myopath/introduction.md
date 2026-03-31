@@ -35,6 +35,10 @@ MyoPath 实现了四层组织分割流水线 — Cellpose-SAM 用于肌纤维实
 | 3 | 细胞核 | Watershed 检测 | 0.87 |
 | 4 | 结缔组织 | 布尔减法 | 0.88 |
 
+<video controls width="100%" style="border-radius: 8px; margin-top: 16px;">
+  <source src="https://pub-1468f56e82864acfbde244b5ee9b9268.r2.dev/qupath-video.mp4" type="video/mp4" />
+</video>
+
 ## 引用
 
 > Zhong H\*, Gao M\*, et al. **MyoPath: A Deep Learning Pipeline for Objective Morphometric Assessment of Skeletal Muscle Biopsies.** *投稿准备中。*
