@@ -7,7 +7,21 @@
 - Raw count matrix (Gene Symbol x Samples)
 - CSV format, genes as rows, samples as columns
 
-### Usage
+### R Package (Recommended)
+
+```r
+# Install
+devtools::install_github("Hirriririir/MyoScore")
+
+# Calculate scores
+library(MyoScore)
+scores <- myoscore_score("your_counts.csv")
+head(scores)
+```
+
+See the full [R Package documentation](/myoscore/r-package) for visualization and advanced usage.
+
+### Python Script
 
 ```python
 python calculate_gmhs_v33.py \

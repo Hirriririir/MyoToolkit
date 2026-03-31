@@ -170,7 +170,7 @@ Featured genes were consistently preserved across different control phenotype co
 
 ## Acknowledgments
 
-Funding support: FHRC, Academy of Finland, Jane and Aatos Erkko Foundation, Magnus Ehrnrooth Foundation, AFM Téléthon, China Scholarship Council.
+We thank the participants and their families who donated their muscle tissues for research purposes. We would also like to extend special thanks to the authors of these publicly available muscle datasets, which will facilitate further research in the future. Funding support: FHRC (M.S. and M.J.), Academy of Finland (M.S.), Jane and Aatos Erkko foundation (P.H.), Magnus Ehrnrooth foundation (A.O.), AFM Téléthon (M.J.), China Scholarship Council (H.Z.). The funders had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
 
 ## Source Code
 

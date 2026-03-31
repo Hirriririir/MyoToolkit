@@ -170,7 +170,7 @@
 
 ## 致谢
 
-基金支持：FHRC、芬兰科学院、Jane and Aatos Erkko 基金、Magnus Ehrnrooth 基金、AFM Téléthon 基金、国家留学生基金委。
+我们感谢所有参与者及其家属为研究目的捐献肌肉组织。我们还要特别感谢这些公开肌肉数据集的作者，他们的工作将促进未来的进一步研究。基金支持：FHRC（M.S. 和 M.J.）、芬兰科学院（M.S.）、Jane and Aatos Erkko 基金（P.H.）、Magnus Ehrnrooth 基金（A.O.）、AFM Téléthon（M.J.）、国家留学基金委（H.Z.）。资助方未参与研究的设计与实施、数据的收集、管理、分析与解读、稿件的撰写、审阅或批准，以及稿件投稿决定。
 
 ## 源代码
 

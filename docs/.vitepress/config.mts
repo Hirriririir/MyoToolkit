@@ -41,6 +41,7 @@ export default defineConfig({
 
   markdown: {
     lineNumbers: true,
+    math: true,
     image: {
       lazyLoading: true,
     },
@@ -75,6 +76,7 @@ export default defineConfig({
               items: [
                 { text: "Introduction", link: "/myoscore/introduction" },
                 { text: "Quick Start", link: "/myoscore/quick-start" },
+                { text: "R Package", link: "/myoscore/r-package" },
                 { text: "Methods", link: "/myoscore/methods" },
                 { text: "Validation", link: "/myoscore/validation" },
               ],
@@ -85,7 +87,11 @@ export default defineConfig({
               text: "MyoPath",
               items: [
                 { text: "Introduction", link: "/myopath/introduction" },
-                { text: "Quick Start", link: "/myopath/quick-start" },
+                { text: "Usage", link: "/myopath/usage" },
+                { text: "Morphometric Features", link: "/myopath/metrics" },
+                { text: "Methods", link: "/myopath/methods" },
+                { text: "Validation", link: "/myopath/validation" },
+                { text: "Data Download", link: "/myopath/data" },
               ],
             },
           ],
@@ -143,6 +149,7 @@ export default defineConfig({
               items: [
                 { text: "简介", link: "/zh/myoscore/introduction" },
                 { text: "快速开始", link: "/zh/myoscore/quick-start" },
+                { text: "R 包", link: "/zh/myoscore/r-package" },
                 { text: "方法", link: "/zh/myoscore/methods" },
                 { text: "验证结果", link: "/zh/myoscore/validation" },
               ],
@@ -153,7 +160,11 @@ export default defineConfig({
               text: "MyoPath",
               items: [
                 { text: "简介", link: "/zh/myopath/introduction" },
-                { text: "快速开始", link: "/zh/myopath/quick-start" },
+                { text: "运行", link: "/zh/myopath/usage" },
+                { text: "形态学特征", link: "/zh/myopath/metrics" },
+                { text: "方法", link: "/zh/myopath/methods" },
+                { text: "验证结果", link: "/zh/myopath/validation" },
+                { text: "数据下载", link: "/zh/myopath/data" },
               ],
             },
           ],

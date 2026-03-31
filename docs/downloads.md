@@ -23,4 +23,6 @@ Download datasets and pre-trained models for MyoToolkit.
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| MyoPath tool | HE pathology analysis pipeline | Coming soon |
+| MyoPath tool | QuPath + Python pipeline for H&E muscle pathology analysis (Groovy scripts, Python scripts, pixel classifiers) | [GitHub](https://github.com/Hirriririir/MyoPath) |
+| WSI datasets | GTEx (n=399) and HuashanMuscle (n=79) whole slide images | Coming soon |
+| Processed data | Morphometric features, segmentation annotations, dystrophy reports | Coming soon |

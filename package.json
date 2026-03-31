@@ -12,5 +12,8 @@
     "sass": "^1.98.0",
     "vitepress": "^1.6.4",
     "vitepress-theme-teek": "^1.5.5"
+  },
+  "dependencies": {
+    "markdown-it-mathjax3": "^4.3.2"
   }
 }
