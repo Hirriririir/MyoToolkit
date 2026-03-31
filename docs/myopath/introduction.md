@@ -35,11 +35,6 @@ The pipeline has been validated on 478 H&E whole-slide images from two independe
 | 3 | Nuclei | Watershed detection | 0.87 |
 | 4 | Connective tissue | Boolean subtraction | 0.88 |
 
-<video controls width="100%" style="border-radius: 8px; margin-top: 16px;">
-  <source src="/myopath/qupath-video.mp4" type="video/mp4" />
-</video>
-
-
 ## Citation
 
 > Zhong H\*, Gao M\*, et al. **MyoPath: A Deep Learning Pipeline for Objective Morphometric Assessment of Skeletal Muscle Biopsies.** *Manuscript in preparation.*
