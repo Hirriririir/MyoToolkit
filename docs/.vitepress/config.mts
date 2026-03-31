@@ -87,6 +87,7 @@ export default defineConfig({
               text: "MyoPath",
               items: [
                 { text: "Introduction", link: "/myopath/introduction" },
+                { text: "Installation", link: "/myopath/installation" },
                 { text: "Usage", link: "/myopath/usage" },
                 { text: "Morphometric Features", link: "/myopath/metrics" },
                 { text: "Methods", link: "/myopath/methods" },
@@ -160,6 +161,7 @@ export default defineConfig({
               text: "MyoPath",
               items: [
                 { text: "简介", link: "/zh/myopath/introduction" },
+                { text: "安装", link: "/zh/myopath/installation" },
                 { text: "运行", link: "/zh/myopath/usage" },
                 { text: "形态学特征", link: "/zh/myopath/metrics" },
                 { text: "方法", link: "/zh/myopath/methods" },
