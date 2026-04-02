@@ -19,10 +19,6 @@
 
 ## HuashanMuscle Cohort
 
-::: warning Coming Soon
-The HuashanMuscle datasets are being prepared for public release. Download links will be available upon publication.
-:::
-
 ### H&E Whole Slide Images
 
 | Item | Samples | Format | Status |
