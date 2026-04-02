@@ -23,6 +23,8 @@ Download datasets and pre-trained models for MyoToolkit.
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| MyoPath tool | QuPath + Python pipeline for H&E muscle pathology analysis (Groovy scripts, Python scripts, pixel classifiers) | [GitHub](https://github.com/Hirriririir/MyoPath) |
-| WSI datasets | GTEx (n=399) and HuashanMuscle (n=79) whole slide images | Coming soon |
-| Processed data | Morphometric features, segmentation annotations, dystrophy reports | Coming soon |
+| MyoPath tool | QuPath + Python pipeline (Groovy scripts, Python scripts, pixel classifiers) | [GitHub](https://github.com/Hirriririir/MyoPath) |
+| GTEx H&E WSI | 399 whole slide images | [GTEx Portal](https://gtexportal.org/home/histologyPage) |
+| GTEx ROI images | 399 exported ROI (TIFF/JPEG + GeoJSON) | [Baidu Pan](https://pan.baidu.com/s/1EYnD68_moBqa-uN7CPiUgA?pwd=4h58) / [OneDrive](https://1drv.ms/f/c/e790ef08eea62f51/IgBRwQWz41AsQJKaJ5nBQ3zhAUJWrpuGObP7the7X9LfyG0?e=hZzrle) |
+| HuashanMuscle H&E WSI | 79 whole slide images | Coming soon |
+| HuashanMuscle ROI images | 79 exported ROI (TIFF/JPEG + GeoJSON) | [Baidu Pan](https://pan.baidu.com/s/1FM9jJ-PlUbvhkZSVZOQUwQ?pwd=pcqj) / [OneDrive](https://1drv.ms/f/c/e790ef08eea62f51/IgCrdnXevB7wQIFD5kOyzM-gAeLN5zNU19uqM7S31rTnf88?e=gYSQnF) |

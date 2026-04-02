@@ -1,32 +1,42 @@
 # 数据下载
 
-::: warning 即将发布
-以下数据集正在准备公开发布，下载链接将在论文发表后提供。
-:::
-
 ## GTEx 队列
 
-| 内容 | 样本数 | 格式 | 状态 |
+### H&E 全切片图像
+
+| 内容 | 样本数 | 格式 | 链接 |
 |------|--------|------|------|
-| H&E 全切片图像 | 399 | SVS | 即将发布 |
-| 导出的 ROI 图像 | 399 | TIFF / JPEG | 即将发布 |
-| 分割注释 | 399 | GeoJSON | 即将发布 |
-| 形态学特征（37 个特征） | 399 | JSON / CSV | 即将发布 |
-| 肌营养不良报告 | 399 | JSON | 即将发布 |
+| H&E 全切片图像 | 399 | SVS | [GTEx Portal](https://gtexportal.org/home/histologyPage) |
+
+### 导出的 ROI 图像
+
+| 内容 | 样本数 | 格式 | 链接 |
+|------|--------|------|------|
+| 导出的 ROI 图像 | 399 | TIFF / JPEG + GeoJSON | [百度网盘](https://pan.baidu.com/s/1EYnD68_moBqa-uN7CPiUgA?pwd=4h58)（提取码: 4h58） |
+| 导出的 ROI 图像 | 399 | TIFF / JPEG + GeoJSON | [OneDrive](https://1drv.ms/f/c/e790ef08eea62f51/IgBRwQWz41AsQJKaJ5nBQ3zhAUJWrpuGObP7the7X9LfyG0?e=hZzrle) |
 
 **来源：** [基因型-组织表达计划 (GTEx)](https://gtexportal.org/) — 来自亚临床消耗性疾病谱系供体的尸检骨骼肌。
 
 ## 华山队列
 
+::: warning 即将发布
+华山队列数据集正在准备公开发布，下载链接将在论文发表后提供。
+:::
+
+### H&E 全切片图像
+
 | 内容 | 样本数 | 格式 | 状态 |
 |------|--------|------|------|
 | H&E 全切片图像 | 79 | VSI | 即将发布 |
-| 导出的 ROI 图像 | 79 | TIFF / JPEG | 即将发布 |
-| 分割注释 | 79 | GeoJSON | 即将发布 |
-| 形态学特征（37 个特征） | 79 | JSON / CSV | 即将发布 |
-| 肌营养不良报告 | 79 | JSON | 即将发布 |
 
-**来源：** 复旦大学附属华山医院 — 临床肌肉活检，包括 DM1、LGMD、炎性肌病和健康对照。
+### 导出的 ROI 图像
+
+| 内容 | 样本数 | 格式 | 链接 |
+|------|--------|------|------|
+| 导出的 ROI 图像 | 79 | TIFF / JPEG + GeoJSON | [百度网盘](https://pan.baidu.com/s/1FM9jJ-PlUbvhkZSVZOQUwQ?pwd=pcqj)（提取码: pcqj） |
+| 导出的 ROI 图像 | 79 | TIFF / JPEG + GeoJSON | [OneDrive](https://1drv.ms/f/c/e790ef08eea62f51/IgCrdnXevB7wQIFD5kOyzM-gAeLN5zNU19uqM7S31rTnf88?e=gYSQnF) |
+
+**来源：** 复旦大学附属华山医院 — 临床肌肉活检，包括 DM1、LGMD、炎性肌病和病理正常对照。
 
 ## 引用
 
