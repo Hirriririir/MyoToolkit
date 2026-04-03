@@ -2,7 +2,7 @@
 
 ## Overview
 
-The `MyoScore` R package provides a streamlined interface for calculating the Genetic Muscle Health Score (GMHS v3.3) from bulk RNA-seq raw count data. It includes built-in gene weights, preprocessing, scoring, and visualization functions.
+The `MyoScore` R package provides a streamlined interface for calculating MyoScore from bulk RNA-seq raw count data. It includes built-in gene weights, preprocessing, scoring, and visualization functions.
 
 ::: info
 **Package**: MyoScore v1.0.0 | **License**: MIT | **R**: >= 4.0.0
@@ -235,8 +235,6 @@ write.csv(results, "my_cohort_myoscores.csv", row.names = FALSE)
 ```
 
 ## Citation
-
-> Revealing myopathy spectrum: integrating transcriptional and clinical features of human skeletal muscles with varying health conditions. *Communications Biology*, 2024. DOI: [10.1038/s42003-024-06096-7](https://doi.org/10.1038/s42003-024-06096-7)
 
 ## Source Code
 

@@ -6,8 +6,9 @@ Download datasets and pre-trained models for MyoToolkit.
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| Gene weights | 1,116 muscle health gene weights (TWAS) | [GitHub](https://github.com/Hirriririir/MyoToolkit) |
-| GMHS calculator | Python/R scripts for GMHS v3.3 | [GitHub](https://github.com/Hirriririir/MyoToolkit) |
+| MyoScore R package | R package (v1.0.0) with scoring, visualization, and gene weights | [GitHub](https://github.com/Hirriririir/MyoScore) |
+| Bulk RNA-seq datasets | 1,722 integrated skeletal muscle transcriptomes | [GitHub Releases](https://github.com/Hirriririir/MyoScore/releases/tag/v1.0) |
+| Gene weights | 1,116 TWAS-significant gene weights across 5 dimensions | [GitHub](https://github.com/Hirriririir/MyoScore) |
 
 ## ThighMRIseg
 

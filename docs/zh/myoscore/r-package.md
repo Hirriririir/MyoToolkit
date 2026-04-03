@@ -2,7 +2,7 @@
 
 ## 概述
 
-`MyoScore` R 包提供了从 bulk RNA-seq 原始 count 数据计算遗传肌肉健康评分（GMHS v3.3）的完整接口，内置基因权重、预处理、评分和可视化功能。
+`MyoScore` R 包提供了从 bulk RNA-seq 原始 count 数据计算 MyoScore 的完整接口，内置基因权重、预处理、评分和可视化功能。
 
 ::: info
 **包名**: MyoScore v1.0.0 | **许可证**: MIT | **R**: >= 4.0.0
@@ -235,8 +235,6 @@ write.csv(results, "my_cohort_myoscores.csv", row.names = FALSE)
 ```
 
 ## 引用
-
-> Revealing myopathy spectrum: integrating transcriptional and clinical features of human skeletal muscles with varying health conditions. *Communications Biology*, 2024. DOI: [10.1038/s42003-024-06096-7](https://doi.org/10.1038/s42003-024-06096-7)
 
 ## 源代码
 

@@ -6,8 +6,9 @@
 
 | 资源 | 描述 | 链接 |
 |------|------|------|
-| 基因权重 | 1,116 个肌肉健康基因权重（TWAS） | [GitHub](https://github.com/Hirriririir/MyoToolkit) |
-| GMHS 计算器 | Python/R 脚本（GMHS v3.3） | [GitHub](https://github.com/Hirriririir/MyoToolkit) |
+| MyoScore R 包 | R 包（v1.0.0），含评分、可视化和基因权重 | [GitHub](https://github.com/Hirriririir/MyoScore) |
+| Bulk RNA-seq 数据集 | 1,722 个整合骨骼肌转录组 | [GitHub Releases](https://github.com/Hirriririir/MyoScore/releases/tag/v1.0) |
+| 基因权重 | 1,116 个 TWAS 显著基因权重，涵盖 5 个维度 | [GitHub](https://github.com/Hirriririir/MyoScore) |
 
 ## ThighMRIseg
 

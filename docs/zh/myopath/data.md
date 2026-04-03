@@ -32,7 +32,7 @@
 | 导出的 ROI 图像 | 79 | TIFF / JPEG + GeoJSON | [百度网盘](https://pan.baidu.com/s/1FM9jJ-PlUbvhkZSVZOQUwQ?pwd=pcqj)（提取码: pcqj） |
 | 导出的 ROI 图像 | 79 | TIFF / JPEG + GeoJSON | [OneDrive](https://1drv.ms/f/c/e790ef08eea62f51/IgCrdnXevB7wQIFD5kOyzM-gAeLN5zNU19uqM7S31rTnf88?e=gYSQnF) |
 
-**来源：** 复旦大学附属华山医院 — 临床肌肉活检，包括 DM1、LGMD、炎性肌病和病理正常对照。
+**来源：** 复旦大学附属华山医院 — 临床肌肉活检，包括 DM1、LGMD 和病理正常对照。
 
 ## 引用
 

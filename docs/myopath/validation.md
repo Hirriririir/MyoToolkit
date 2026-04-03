@@ -7,7 +7,7 @@ MyoPath was validated on 478 H&E whole slide images from two independent cohorts
 | Cohort | n | Source | Composition |
 |--------|---|--------|-------------|
 | GTEx | 399 | Genotype-Tissue Expression Project | Autopsy skeletal muscle; healthy controls and subclinical wasting spectrum |
-| HuashanMuscle | 79 | Huashan Hospital, Fudan University | Clinical muscle biopsies; DM1, LGMD, inflammatory myopathy, and healthy controls |
+| HuashanMuscle | 79 | Huashan Hospital, Fudan University | Clinical muscle biopsies; DM1, LGMD, and pathologically normal controls |
 
 The GTEx cohort served as the training set; HuashanMuscle served as the independent external validation set. No retraining was performed on HuashanMuscle data.
 

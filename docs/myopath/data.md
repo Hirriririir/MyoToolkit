@@ -32,7 +32,7 @@
 | Exported ROI images | 79 | TIFF / JPEG + GeoJSON | [Baidu Pan](https://pan.baidu.com/s/1FM9jJ-PlUbvhkZSVZOQUwQ?pwd=pcqj) (Code: pcqj) |
 | Exported ROI images | 79 | TIFF / JPEG + GeoJSON | [OneDrive](https://1drv.ms/f/c/e790ef08eea62f51/IgCrdnXevB7wQIFD5kOyzM-gAeLN5zNU19uqM7S31rTnf88?e=gYSQnF) |
 
-**Source:** Huashan Hospital, Fudan University — clinical muscle biopsies including DM1, LGMD, inflammatory myopathy, and pathologically normal controls.
+**Source:** Huashan Hospital, Fudan University — clinical muscle biopsies including DM1, LGMD, and pathologically normal controls.
 
 ## Citation
 
