@@ -37,6 +37,10 @@ export default defineConfig({
       {},
       "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-TMKV3Y3GND');",
     ],
+    [
+      "script",
+      { src: "https://tracking.huashanmuscle.com/api/script.js", "data-site-id": "06cfcc414cf3", defer: "" },
+    ],
   ],
 
   markdown: {
