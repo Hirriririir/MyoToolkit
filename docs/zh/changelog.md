@@ -2,6 +2,17 @@
 
 MyoToolkit 的所有重要更新将记录在此页面。
 
+## 2026.04 — MyoScore 在线计算器
+
+- 新增浏览器端 [MyoScore 在线计算器](/zh/myoscore/calculator)，无需安装
+- 支持上传或粘贴 bulk RNA-seq 原始 count 矩阵，计算全程在浏览器本地完成（数据不上传服务器）
+- 自动识别 Gene Symbol / Ensembl ID，按需加载 GTEx 注释字典（约 5.6 万条）完成转换
+- 四种 ECharts 可视化：雷达图、MyoScore 条形图、各维度箱线图、结果表（支持 CSV 下载）
+- 全屏模式便于大批量队列查看
+- 内置 Symbol / Ensembl 两种格式示例数据（5 Healthy + 5 Unhealthy）
+
+---
+
 ## 2026.03 — MyoPath
 
 - 开源发布 MyoPath 流水线（[GitHub](https://github.com/Hirriririir/MyoPath)）

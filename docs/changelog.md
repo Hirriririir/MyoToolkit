@@ -2,6 +2,17 @@
 
 All notable changes to MyoToolkit will be documented on this page.
 
+## 2026.04 — MyoScore Calculator
+
+- Browser-based [MyoScore calculator](/myoscore/calculator) with zero install
+- Upload or paste a bulk RNA-seq count matrix; computation runs fully client-side (data never leaves the browser)
+- Auto-detects Gene Symbol vs Ensembl ID; lazy-loads GTEx annotation dictionary (~56k entries) for on-the-fly conversion
+- Four ECharts visualizations: radar, MyoScore bar, per-dimension boxplot, results table with CSV export
+- Fullscreen mode for large cohort inspection
+- Built-in Symbol / Ensembl example datasets (5 Healthy + 5 Unhealthy)
+
+---
+
 ## 2026.03 — MyoPath
 
 - Open-source release of MyoPath pipeline ([GitHub](https://github.com/Hirriririir/MyoPath))

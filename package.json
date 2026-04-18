@@ -9,11 +9,14 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
+    "@types/papaparse": "^5.5.2",
     "sass": "^1.98.0",
     "vitepress": "^1.6.4",
     "vitepress-theme-teek": "^1.5.5"
   },
   "dependencies": {
-    "markdown-it-mathjax3": "^4.3.2"
+    "echarts": "^6.0.0",
+    "markdown-it-mathjax3": "^4.3.2",
+    "papaparse": "^5.5.3"
   }
 }

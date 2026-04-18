@@ -80,6 +80,7 @@ export default defineConfig({
               items: [
                 { text: "Introduction", link: "/myoscore/introduction" },
                 { text: "Quick Start", link: "/myoscore/quick-start" },
+                { text: "Calculator", link: "/myoscore/calculator" },
                 { text: "R Package", link: "/myoscore/r-package" },
                 { text: "Methods", link: "/myoscore/methods" },
                 { text: "Validation", link: "/myoscore/validation" },
@@ -155,6 +156,7 @@ export default defineConfig({
               items: [
                 { text: "简介", link: "/zh/myoscore/introduction" },
                 { text: "快速开始", link: "/zh/myoscore/quick-start" },
+                { text: "在线计算器", link: "/zh/myoscore/calculator" },
                 { text: "R 包", link: "/zh/myoscore/r-package" },
                 { text: "方法", link: "/zh/myoscore/methods" },
                 { text: "验证结果", link: "/zh/myoscore/validation" },

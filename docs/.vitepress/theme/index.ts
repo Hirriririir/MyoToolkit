@@ -12,10 +12,12 @@ import "vitepress-theme-teek/tk-plus/fade-up-animation.scss";
 import "./custom.css";
 
 import MyoPathDemo from "../components/MyoPathDemo.vue";
+import MyoScoreCalculator from "../components/MyoScoreCalculator.vue";
 
 export default {
   extends: Teek,
   enhanceApp({ app }) {
     app.component("MyoPathDemo", MyoPathDemo);
+    app.component("MyoScoreCalculator", MyoScoreCalculator);
   },
 } satisfies Theme;
