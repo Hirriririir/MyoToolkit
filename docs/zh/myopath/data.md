@@ -38,4 +38,4 @@
 
 使用这些数据集时请引用：
 
-> Zhong H\*, Gao M\*, et al. **MyoPath: A Deep Learning Pipeline for Objective Morphometric Assessment of Skeletal Muscle Biopsies.** *投稿准备中。*
+> Zhong H\*, Gao M\*, et al. **MyoPath: A deep learning pipeline for objective morphometric assessment of skeletal muscle biopsies.** *Journal of Pathology Informatics*. 2026;100747. [doi:10.1016/j.jpi.2026.100747](https://doi.org/10.1016/j.jpi.2026.100747)

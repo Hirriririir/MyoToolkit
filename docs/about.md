@@ -16,6 +16,7 @@ MyoToolkit is a computational toolkit for skeletal muscle research, developed by
 ## Publications
 
 1. Zhong, H., Sian, V., Johari, M., Katayama, S., Oghabian, A., Jonson, P. H., Hackman, P., Savarese, M., & Udd, B. Revealing myopathy spectrum: integrating transcriptional and clinical features of human skeletal muscles with varying health conditions. *Communications Biology*, 2024, 7(1):438.
+2. Zhong, H., Gao, M., Ma, S., Zhang, W., Cheng, N., Jiao, K., Zhu, B., Song, J., Yan, C., Yue, D., Xi, J., Du, Z., Zhu, W., Zhao, C., & Luo, S. MyoPath: A deep learning pipeline for objective morphometric assessment of skeletal muscle biopsies. *Journal of Pathology Informatics*, 2026, 100747. https://doi.org/10.1016/j.jpi.2026.100747
 
 ## License
 

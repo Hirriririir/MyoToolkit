@@ -41,4 +41,4 @@ The pipeline has been validated on 478 H&E whole-slide images from two independe
 
 ## Citation
 
-> Zhong H\*, Gao M\*, et al. **MyoPath: A Deep Learning Pipeline for Objective Morphometric Assessment of Skeletal Muscle Biopsies.** *Manuscript in preparation.*
+> Zhong H\*, Gao M\*, et al. **MyoPath: A deep learning pipeline for objective morphometric assessment of skeletal muscle biopsies.** *Journal of Pathology Informatics*. 2026;100747. [doi:10.1016/j.jpi.2026.100747](https://doi.org/10.1016/j.jpi.2026.100747)

@@ -3,7 +3,7 @@
 MyoPath 从常规 H&E 染色骨骼肌切片中提取 **37 个独特的形态学特征**，按五个生物学类别组织，并精炼为 **七个临床可解释的病理指标**。
 
 ::: tip 参考文献
-> Zhong H\*, Gao M\*, Ma S, Zhang W, Chen N, Jiao K, Zhu B, Song J, Yan C, Yue D, Xi J, Zhu W, Zhao C\#, Luo S\#. **MyoPath: A Deep Learning Pipeline for Objective Morphometric Assessment of Skeletal Muscle Biopsies.** *投稿准备中。*
+> Zhong H\*, Gao M\*, Ma S, Zhang W, Cheng N, Jiao K, Zhu B, Song J, Yan C, Yue D, Xi J, Du Z, Zhu W, Zhao C\#, Luo S\#. **MyoPath: A deep learning pipeline for objective morphometric assessment of skeletal muscle biopsies.** *Journal of Pathology Informatics*. 2026;100747. [doi:10.1016/j.jpi.2026.100747](https://doi.org/10.1016/j.jpi.2026.100747)
 :::
 
 ## 七项病理指标

@@ -3,7 +3,7 @@
 MyoPath extracts **37 unique morphometric features** per sample from routine H&E-stained skeletal muscle sections. These features are organized into five biological categories and distilled into **seven clinically interpretable pathology indicators**.
 
 ::: tip Reference
-> Zhong H\*, Gao M\*, Ma S, Zhang W, Chen N, Jiao K, Zhu B, Song J, Yan C, Yue D, Xi J, Zhu W, Zhao C\#, Luo S\#. **MyoPath: A Deep Learning Pipeline for Objective Morphometric Assessment of Skeletal Muscle Biopsies.** *Manuscript in preparation.*
+> Zhong H\*, Gao M\*, Ma S, Zhang W, Cheng N, Jiao K, Zhu B, Song J, Yan C, Yue D, Xi J, Du Z, Zhu W, Zhao C\#, Luo S\#. **MyoPath: A deep learning pipeline for objective morphometric assessment of skeletal muscle biopsies.** *Journal of Pathology Informatics*. 2026;100747. [doi:10.1016/j.jpi.2026.100747](https://doi.org/10.1016/j.jpi.2026.100747)
 :::
 
 ## Seven Pathology Indicators
