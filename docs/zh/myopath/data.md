@@ -21,9 +21,12 @@
 
 ### H&E 全切片图像
 
-| 内容 | 样本数 | 格式 | 状态 |
+| 内容 | 样本数 | 格式 | 链接 |
 |------|--------|------|------|
-| H&E 全切片图像 | 79 | VSI | 即将发布 |
+| H&E 全切片图像 | 78 | SVS | [百度网盘](https://pan.baidu.com/s/1R8941s0wljPiZHZ5_dfhDA?pwd=cdb6)（提取码: cdb6） |
+| H&E 全切片图像 | 78 | SVS | [OneDrive](https://1drv.ms/f/c/e790ef08eea62f51/IgCXfY7b8uaLR5TJ1-AJnzC1AUgptZkOHi6BzrZKAfUrRxk?e=ba5J5C) |
+
+每个文件即论文分析所用的那一张扫描，已去标识化（不含标签图和全景图，不含扫描仪元数据），像素坐标与 ROI 的 GeoJSON 标注一致。论文分析的 79 张切片中，M2717 的原始扫描文件已无法获取，未包含在内。
 
 ### 导出的 ROI 图像
 

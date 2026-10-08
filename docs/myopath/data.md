@@ -21,9 +21,12 @@
 
 ### H&E Whole Slide Images
 
-| Item | Samples | Format | Status |
-|------|---------|--------|--------|
-| H&E whole slide images | 79 | VSI | Coming soon |
+| Item | Samples | Format | Link |
+|------|---------|--------|------|
+| H&E whole slide images | 78 | SVS | [Baidu Pan](https://pan.baidu.com/s/1R8941s0wljPiZHZ5_dfhDA?pwd=cdb6) (Code: cdb6) |
+| H&E whole slide images | 78 | SVS | [OneDrive](https://1drv.ms/f/c/e790ef08eea62f51/IgCXfY7b8uaLR5TJ1-AJnzC1AUgptZkOHi6BzrZKAfUrRxk?e=ba5J5C) |
+
+Each file holds the scan analysed in the paper, de-identified (no label or overview images, no scanner metadata) and on the same pixel grid as the ROI GeoJSON annotations. M2717, one of the 79 analysed slides, is not included because its original scan files are no longer available.
 
 ### Exported ROI Images
 
