@@ -1,11 +1,5 @@
 # MyoPath
 
-::: danger Under Development
-
-MyoPath is currently under active development and not yet publicly available.
-
-:::
-
 **MyoPath** is a deep learning pipeline for objective morphometric assessment of skeletal muscle biopsies from routine H&E-stained whole slide images (WSI).
 
 <MyoPathDemo />

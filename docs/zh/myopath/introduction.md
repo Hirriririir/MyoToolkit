@@ -1,11 +1,5 @@
 # MyoPath
 
-::: danger 正在开发中
-
-MyoPath 目前正在积极开发中，尚未公开发布。
-
-:::
-
 **MyoPath** 是一个基于深度学习的骨骼肌活检客观形态学评估流水线，分析常规 HE 染色全切片图像（WSI）。
 
 <MyoPathDemo />
