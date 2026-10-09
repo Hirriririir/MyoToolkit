@@ -226,7 +226,7 @@ export default defineConfig({
 
     footer: {
       message:
-        'Released under the MIT License.<br/><a href="https://beian.miit.gov.cn/" target="_blank">赣ICP备2024041543号</a> | <a href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=36110002000148" target="_blank"><img src="/beian.png" style="display:inline-block;vertical-align:middle;width:14px;height:14px;margin-right:4px;" />赣公网安备36110002000148号</a>',
+        'Released under the MIT License.<br/><a href="https://beian.miit.gov.cn/" target="_blank">沪ICP备2026038910号</a> | <a href="https://beian.mps.gov.cn/#/query/webSearch?code=31010602010491" rel="noreferrer" target="_blank"><img src="/beian.png" style="display:inline-block;vertical-align:middle;width:14px;height:14px;margin-right:4px;" />沪公网安备31010602010491号</a>',
       copyright:
         '<a href="https://huashanmuscle.com/" target="_blank">HuashanMuscle</a> © 2026-present',
     },
